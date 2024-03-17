@@ -1,0 +1,64 @@
+.test-instructions {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  
+}
+
+
+.instructions-section {
+  margin-bottom: 20 px;
+}
+
+h1 {
+  font-size: 32px;
+  color: #333;
+}
+
+h2 {
+  font-size: 24px;
+  color: #555;
+}
+
+ul, ol {
+  padding-left: 20px;
+}
+
+
+li {
+  margin-bottom: 5px;
+}
+
+button.start-button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+button.start-button:hover {
+  background-color: #0056b3;
+}
+
+.logo{
+background-color: transparent;
+}
+
+.test{
+text-decoration: dotted;
+}
+.name{
+font-size:xx-large;
+font-style:oblique;
+}
+
+
+
+
+.instructions-section .heading-2 {
+  color: black; /* Change this to the color you want */
+}
